@@ -15,6 +15,7 @@ O tema desse semestre foi o "Futuro do Trabalho", e nossa solução é um aplica
 | :--- | :--- | :--- |
 | Leonardo Fernandes Mesquita | 559623 | [leoGitFiap](https://github.com/leoGitFiap) |
 | Marco Antonio Caires Freire | 559256 | [MACF77](https://github.com/MACF77) |
+| Guilherme Augusto Caseiro | 559765 | [Guiitens2005](https://github.com/Guiitens2005) |
 
 ---
 
